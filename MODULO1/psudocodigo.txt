@@ -1,0 +1,5 @@
+1. Início
+2. Entre com o valor de 'n'
+3. digito1 = n-1
+4. digito2 = 10-n
+5. Imprima 9 x n = digito1 x 10 + digito2
